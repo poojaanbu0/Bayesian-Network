@@ -19,6 +19,7 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
+Name: POOJA A  Register number: 212222240072
 ```
 !pip install pybbn
 
